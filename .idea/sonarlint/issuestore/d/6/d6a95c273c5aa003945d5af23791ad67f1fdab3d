@@ -1,0 +1,8 @@
+
+`	java:S112x"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+a	java:S112„"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+c
+java:S2259€"GA "NullPointerException" could be thrown; "getCache()" can return null.(â­‹Æşÿÿÿÿ
+t
+java:S2142w"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€
+R	java:S125"<This block of commented-out lines of code should be removed.(Øïë·
